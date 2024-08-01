@@ -50,7 +50,6 @@ streamlit run app.py
 
 
 
-
 ##Question
 
 EDA.ipynb file is working fien on my local machine. and everything is up to date in my git repo. I dont know what is the issue.
