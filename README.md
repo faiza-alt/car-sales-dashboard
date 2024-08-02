@@ -26,6 +26,12 @@ To run this web app locally, follow these steps:
     cd car-sales-dashboard
     ```
 3. Install the required dependencies:
+
+
+
+
+
+  Student Question: Hello, actually my EDA.ipynb fiel is working fine on my local machine. but when i committed here it is showing a little bit error. Everything is up to date here. I dont know what is the issue.
     ```bash
     pip install -r requirements.txt
     ```
@@ -35,3 +41,15 @@ To run this web app locally, follow these steps:
 To start the web app, run the following command:
 ```bash
 streamlit run app.py
+
+
+
+
+
+
+
+
+
+##Question
+
+EDA.ipynb file is working fien on my local machine. and everything is up to date in my git repo. I dont know what is the issue.
